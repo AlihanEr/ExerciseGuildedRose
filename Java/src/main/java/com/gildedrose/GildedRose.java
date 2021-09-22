@@ -5,6 +5,7 @@ class GildedRose {
 
     public GildedRose(Item[] items) {
         this.items = items;
+
     }
 
     public void updateQuality() {
